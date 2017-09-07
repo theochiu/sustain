@@ -19,11 +19,11 @@ description: Personal blog and resume
 avatar: githubprof.jpg
 email: chiu42@purdue.edu
 github: theochiu # username
-twitter: username
-linkedin: https://www.linkedin.com/in/theochiu
-stackoverflow: username   #e.g: users/2735833/proton1h1
+# twitter: username
+linkedin: theochiu
+# stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
+# disqus: username
 google_analytics: UA-69391421-1
 
 
